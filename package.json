@@ -1,0 +1,15 @@
+{
+  "name": "com.theastledev.traeideforunity",
+  "displayName": "TraeIDE for Unity",
+  "version": "0.1.0",
+  "unity": "6000.3",
+  "unityRelease": "11f1",
+  "description": "Integración de Trae IDE con Unity.\n\n▪ Incluye ejemplos de runtime\n▪ Incluye muestras y tests para validar la integración",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "author": {
+    "name": "Theastledev"
+  },
+  "_fingerprint": "ec5f5429c2487f78a61e6ca971b6c902c393dfc4"
+}
